@@ -15944,5 +15944,12 @@
     "author": "Feirong.zfr",
     "description": "Manage student repositories.",
     "repo": "yingflower/obsidian-stu-repo-helper"  
-  }
+  },
+{
+    "id": "obsidian-web-blocker",
+    "name": "Web Blocker",
+    "author": "Harihar Prasad",
+    "description": "Block keywords/websites in the Web Viewer plugin.",
+    "repo": "hariharprasadd/obsidian-web-blocker"
+}
 ]
