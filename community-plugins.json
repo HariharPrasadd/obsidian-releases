@@ -19166,10 +19166,10 @@
     "repo": "sawamaru/obsidian-LongtimeDiary"
   },
   {
-  	"id": "obsidian-web-blocker",
-  	"name": "Web Blocker",
+    "id": "obsidian-web-blocker",
+    "name": "Web Blocker",
     "author": "Harihar Prasad",
-  	"description": "Block keywords/websites in the Web Viewer plugin.",
-  	"repo": "HariharPrasadd/obsidian-web-blocker"
+    "description": "Block keywords/websites in the Web Viewer plugin.",
+    "repo": "HariharPrasadd/obsidian-web-blocker"
   }
 ]
